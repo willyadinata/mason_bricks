@@ -16,7 +16,7 @@ class App extends ConsumerWidget {
 
     return MaterialApp.router(
       // TODO: add your app name here
-      title: 'Hello World',
+      title: 'Riverpod Project Boilerplate',
       // TODO: add your localization here
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,

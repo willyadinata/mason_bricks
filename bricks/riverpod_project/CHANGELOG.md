@@ -1,3 +1,7 @@
+# 0.1.0+8
+
+- upgrading dart sdk to ">=2.19.2 <3.0.0"
+
 # 0.1.0+7
 
 - upgrading go_router & hooks_riverpod
